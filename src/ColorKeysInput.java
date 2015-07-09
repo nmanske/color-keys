@@ -1,4 +1,4 @@
-public class KeyPress {
+public class ColorKeysInput {
 
 	private static final int PIANO_KEY_COUNT = 8;
 	private static final String[] WHITE_PIANO_KEYS = {"C", "D", "E", "F", "G", "A", "B", "C_OCTAVE"};
